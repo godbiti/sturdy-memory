@@ -1,2 +1,3 @@
 new text of GB first attempt
 mano nauji pakeitimai kuriuos siuo metu darau
+darau dabar pakeitimus 3 eilujete, kad galima butu sukurti konflikta
